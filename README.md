@@ -1,2 +1,1 @@
-# task2
-python
+#task2
